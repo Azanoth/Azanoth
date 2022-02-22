@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Azanoth
+- 👀 I’m interested in cibersecurity
+- 🌱 I’m currently learning pentesting methods
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me instagram:@navi_v.r
